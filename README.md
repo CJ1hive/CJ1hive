@@ -3,7 +3,7 @@ Frontend web developer
 
 
 ## 🌐 Socials:
-[![LinkedIn](<img src="https://img.shields.io/badge/LinkedIn-Ismael%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>)](href="https://www.linkedin.com/in/ismael-ahmed-1261171aa/" target="_blank"/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cj1hiv@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-ahmed-1261171aa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cj1hiv@gmail.com) 
 
 <p align="right">
   <img
