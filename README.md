@@ -3,7 +3,7 @@ Frontend web developer passionate about building beautiful and responsive web ap
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-ahmed-1261171aa/) 
-[![Email](https://img.shields.io/badge/Email-D14830?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14830?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <p align="right">
   <img
@@ -40,11 +40,11 @@ Frontend web developer passionate about building beautiful and responsive web ap
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJ1hive&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CJ1hive&show_icons=true&theme=dark&count_private=true)](https://github.com/CJ1hive)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CJ1hive&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CJ1hive&theme=dark)](https://github.com/CJ1hive)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJ1hive&theme=dark&hide_border=false&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJ1hive&theme=dark&layout=compact)](https://github.com/CJ1hive)
 
 </div>
 
@@ -52,7 +52,7 @@ Frontend web developer passionate about building beautiful and responsive web ap
 
 ## 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=CJ1hive&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CJ1hive&repo=CJ1hive&theme=dark)](https://github.com/CJ1hive/CJ1hive)
 
 ---
 
