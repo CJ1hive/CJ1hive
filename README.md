@@ -40,11 +40,9 @@ Frontend web developer passionate about building beautiful and responsive web ap
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CJ1hive&show_icons=true&theme=dark&count_private=true)](https://github.com/CJ1hive)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CJ1hive&theme=dark)](https://github.com/CJ1hive)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJ1hive&theme=dark&layout=compact)](https://github.com/CJ1hive)
 
 </div>
 
