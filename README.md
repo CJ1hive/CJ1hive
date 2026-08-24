@@ -23,7 +23,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
 </div>
+###
+<p align="center">
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=C4S4BL4NC4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="C4S4BL4NC4's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4S4BL4NC4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p> -->
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4S4BL4NC4&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C4S4BL4NC4&theme=redical&hide_border=true" alt="Activity Graph" />
+</p>
 ###
 
 <div data-importer="socials" align="center">
